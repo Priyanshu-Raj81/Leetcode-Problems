@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -11,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
 | [2469-convert-the-temperature](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3516-find-closest-person) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
