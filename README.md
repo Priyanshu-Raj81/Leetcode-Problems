@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2469-convert-the-temperature](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3516-find-closest-person) |
 ## String
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
