@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0415-add-strings) |
