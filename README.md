@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0415-add-strings) |
+| [3110-score-of-a-string](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
