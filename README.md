@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0415-add-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Trie
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0415-add-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3894-traffic-signal-color](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
