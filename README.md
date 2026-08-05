@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3467-transform-array-by-parity](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
