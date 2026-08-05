@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3467-transform-array-by-parity](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3467-transform-array-by-parity](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
