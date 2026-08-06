@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3467-transform-array-by-parity](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3894-traffic-signal-color) |
 ## Trie
