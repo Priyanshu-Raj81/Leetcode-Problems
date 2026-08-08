@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
