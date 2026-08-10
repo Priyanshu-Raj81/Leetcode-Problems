@@ -6,10 +6,11 @@ public:
         int n = prices.size();
 
         for(int i=0; i<n; i++){
+            bestBuy = min(bestBuy, prices[i]);
             if(prices[i] > bestBuy){
                 profit = max(profit, prices[i] - bestBuy);
             }
-            bestBuy = min(bestBuy, prices[i]);
+            
         }
         return profit;
     }
