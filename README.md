@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
