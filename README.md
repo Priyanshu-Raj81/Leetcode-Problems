@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
