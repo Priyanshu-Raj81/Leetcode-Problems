@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
@@ -212,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0078-subsets) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
