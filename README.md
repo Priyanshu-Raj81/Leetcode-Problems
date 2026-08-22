@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0136-single-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
