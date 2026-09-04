@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
