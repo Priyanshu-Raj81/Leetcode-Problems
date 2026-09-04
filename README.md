@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Database
 |  |
 | ------- |
