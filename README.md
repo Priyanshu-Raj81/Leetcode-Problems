@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0090-subsets-ii) |
 ## Pigeonhole Principle
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Priyanshu-Raj81/Leetcode-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
